@@ -1,0 +1,1909 @@
+<SYSTEM title="normal_us/consonants_augmented.trn" ref_fname="normal_us/ref.trn" hyp_fname="normal_us/consonants_augmented.trn" creation_date="Mon Jun  3 00:13:07 2024" format="2.4" frag_corr="TRUE" opt_del="FALSE" weight_ali="FALSE" weight_filename="">
+<SPEAKER id="s10">
+<PATH id="(s101u438n.wav)" word_cnt="11" sequence="0">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s102u449n.wav)" word_cnt="10" sequence="1">
+S,"ralph","rough":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s103u433n.wav)" word_cnt="10" sequence="2">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s103u434n.wav)" word_cnt="7" sequence="3">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s103u452n.wav)" word_cnt="8" sequence="4">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s104u430n.wav)" word_cnt="11" sequence="5">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s105u440n.wav)" word_cnt="9" sequence="6">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s105u452n.wav)" word_cnt="8" sequence="7">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s106u435n.wav)" word_cnt="11" sequence="8">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":S,"zircons","ziracons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s106u448n.wav)" word_cnt="6" sequence="9">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s107u434n.wav)" word_cnt="7" sequence="10">
+C,"each","each":S,"stag","static":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s107u438n.wav)" word_cnt="11" sequence="11">
+C,"shell","shell":S,"shock","shot":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s109u434n.wav)" word_cnt="7" sequence="12">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s109u451n.wav)" word_cnt="11" sequence="13">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s101u428n.wav)" word_cnt="10" sequence="44">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s101u429n.wav)" word_cnt="9" sequence="45">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s101u430n.wav)" word_cnt="11" sequence="46">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s101u432n.wav)" word_cnt="11" sequence="47">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s101u433n.wav)" word_cnt="10" sequence="48">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s101u434n.wav)" word_cnt="7" sequence="49">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s101u435n.wav)" word_cnt="11" sequence="50">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s101u436n.wav)" word_cnt="6" sequence="51">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s101u437n.wav)" word_cnt="9" sequence="52">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s101u439n.wav)" word_cnt="8" sequence="53">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s101u440n.wav)" word_cnt="9" sequence="54">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":C,"plymouth","plymouth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s101u441n.wav)" word_cnt="10" sequence="55">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s101u442n.wav)" word_cnt="8" sequence="56">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":D,"the",:S,"gab","legab":C,"habit","habit"
+</PATH>
+<PATH id="(s101u444n.wav)" word_cnt="9" sequence="57">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s101u445n.wav)" word_cnt="9" sequence="58">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s101u446n.wav)" word_cnt="8" sequence="59">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":S,"larger","large":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s101u448n.wav)" word_cnt="6" sequence="60">
+S,"spherical","spheric":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s101u449n.wav)" word_cnt="10" sequence="61">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s101u450n.wav)" word_cnt="11" sequence="62">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":D,"drawing",:C,"the","the":I,,"drawing":C,"graph","graph"
+</PATH>
+<PATH id="(s101u451n.wav)" word_cnt="11" sequence="63">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s101u452n.wav)" word_cnt="8" sequence="64">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s102u428n.wav)" word_cnt="10" sequence="65">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s102u429n.wav)" word_cnt="9" sequence="66">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s102u430n.wav)" word_cnt="11" sequence="67">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s102u432n.wav)" word_cnt="11" sequence="68">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s102u433n.wav)" word_cnt="10" sequence="69">
+C,"the","the":C,"overweight","overweight":S,"charmer","churmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s102u434n.wav)" word_cnt="7" sequence="70">
+C,"each","each":S,"stag","sag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s102u435n.wav)" word_cnt="11" sequence="71">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s102u436n.wav)" word_cnt="6" sequence="72">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s102u437n.wav)" word_cnt="9" sequence="73">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s102u438n.wav)" word_cnt="11" sequence="74">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s102u439n.wav)" word_cnt="8" sequence="75">
+C,"that","that":S,"stinging","staining":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s102u440n.wav)" word_cnt="9" sequence="76">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s102u441n.wav)" word_cnt="10" sequence="77">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s102u442n.wav)" word_cnt="8" sequence="78">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s102u444n.wav)" word_cnt="10" sequence="79">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":I,,"clam":S,"clamshell","shell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s102u445n.wav)" word_cnt="9" sequence="80">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s102u446n.wav)" word_cnt="8" sequence="81">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s102u448n.wav)" word_cnt="6" sequence="82">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s102u450n.wav)" word_cnt="10" sequence="83">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s102u451n.wav)" word_cnt="11" sequence="84">
+C,"the","the":C,"thick","thick":S,"elm","alimphor":S,"forest","is":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":S,"elm","alim":C,"disease","disease"
+</PATH>
+<PATH id="(s102u452n.wav)" word_cnt="8" sequence="85">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s103u428n.wav)" word_cnt="10" sequence="86">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s103u429n.wav)" word_cnt="9" sequence="87">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s103u430n.wav)" word_cnt="11" sequence="88">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s103u432n.wav)" word_cnt="11" sequence="89">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s103u435n.wav)" word_cnt="11" sequence="90">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s103u436n.wav)" word_cnt="6" sequence="91">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s103u437n.wav)" word_cnt="9" sequence="92">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":S,"thoughtless","philis":C,"motorists","motorists"
+</PATH>
+<PATH id="(s103u438n.wav)" word_cnt="11" sequence="93">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s103u439n.wav)" word_cnt="8" sequence="94">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s103u440n.wav)" word_cnt="9" sequence="95">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plamoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s103u441n.wav)" word_cnt="10" sequence="96">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s103u442n.wav)" word_cnt="8" sequence="97">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s103u444n.wav)" word_cnt="9" sequence="98">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s103u445n.wav)" word_cnt="9" sequence="99">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s103u446n.wav)" word_cnt="8" sequence="100">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s103u448n.wav)" word_cnt="6" sequence="101">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s103u449n.wav)" word_cnt="10" sequence="102">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s103u450n.wav)" word_cnt="10" sequence="103">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s103u451n.wav)" word_cnt="11" sequence="104">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s104u428n.wav)" word_cnt="10" sequence="105">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s104u429n.wav)" word_cnt="9" sequence="106">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s104u432n.wav)" word_cnt="11" sequence="107">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s104u433n.wav)" word_cnt="10" sequence="108">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s104u434n.wav)" word_cnt="7" sequence="109">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s104u435n.wav)" word_cnt="11" sequence="110">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":S,"zircons","circums":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s104u436n.wav)" word_cnt="6" sequence="111">
+C,"please","please":C,"sing","sing":C,"just","just":S,"the","a":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s104u437n.wav)" word_cnt="9" sequence="112">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s104u438n.wav)" word_cnt="13" sequence="113">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":I,,"a":I,,"scrap":S,"shrapnel","nail":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s104u439n.wav)" word_cnt="8" sequence="114">
+C,"that","that":S,"stinging","singing":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s104u440n.wav)" word_cnt="9" sequence="115">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s104u441n.wav)" word_cnt="10" sequence="116">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":D,"group",:C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s104u442n.wav)" word_cnt="9" sequence="117">
+I,,"superior":S,"suburban","women":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":S,"the","a":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s104u444n.wav)" word_cnt="9" sequence="118">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s104u445n.wav)" word_cnt="9" sequence="119">
+C,"what","what":C,"is","is":S,"this","the":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s104u446n.wav)" word_cnt="8" sequence="120">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s104u448n.wav)" word_cnt="6" sequence="121">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s104u449n.wav)" word_cnt="10" sequence="122">
+S,"ralph","proph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s104u450n.wav)" word_cnt="10" sequence="123">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":D,"spurious",:S,"data","superior":S,"points","statupoints":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s104u451n.wav)" word_cnt="11" sequence="124">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s104u452n.wav)" word_cnt="8" sequence="125">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s105u428n.wav)" word_cnt="10" sequence="126">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s105u429n.wav)" word_cnt="9" sequence="127">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s105u430n.wav)" word_cnt="11" sequence="128">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s105u432n.wav)" word_cnt="12" sequence="129">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":I,,"the":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s105u433n.wav)" word_cnt="10" sequence="130">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s105u434n.wav)" word_cnt="7" sequence="131">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s105u435n.wav)" word_cnt="11" sequence="132">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s105u436n.wav)" word_cnt="6" sequence="133">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s105u437n.wav)" word_cnt="9" sequence="134">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s105u438n.wav)" word_cnt="11" sequence="135">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s105u439n.wav)" word_cnt="8" sequence="136">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s105u441n.wav)" word_cnt="10" sequence="137">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s105u442n.wav)" word_cnt="8" sequence="138">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s105u444n.wav)" word_cnt="9" sequence="139">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s105u445n.wav)" word_cnt="9" sequence="140">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s105u446n.wav)" word_cnt="8" sequence="141">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s105u448n.wav)" word_cnt="6" sequence="142">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s105u449n.wav)" word_cnt="10" sequence="143">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s105u450n.wav)" word_cnt="10" sequence="144">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s105u451n.wav)" word_cnt="11" sequence="145">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s106u428n.wav)" word_cnt="10" sequence="146">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s106u429n.wav)" word_cnt="9" sequence="147">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s106u430n.wav)" word_cnt="11" sequence="148">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":S,"purists","purest":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s106u432n.wav)" word_cnt="11" sequence="149">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":S,"temperate","tempered":C,"zones","zones"
+</PATH>
+<PATH id="(s106u433n.wav)" word_cnt="10" sequence="150">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s106u434n.wav)" word_cnt="7" sequence="151">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s106u436n.wav)" word_cnt="6" sequence="152">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s106u437n.wav)" word_cnt="9" sequence="153">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s106u438n.wav)" word_cnt="11" sequence="154">
+C,"shell","shell":C,"shock","shock":S,"caused","claws":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s106u439n.wav)" word_cnt="8" sequence="155">
+C,"that","that":S,"stinging","stinking":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s106u440n.wav)" word_cnt="9" sequence="156">
+C,"the","the":C,"advertising","advertising":S,"verse","burst":C,"of","of":S,"plymouth","plemidth":C,"variety","variety":S,"store","stores":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s106u441n.wav)" word_cnt="10" sequence="157">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s106u442n.wav)" word_cnt="9" sequence="158">
+I,,"suburbant":S,"suburban","health":S,"housewives","wise":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":S,"gab","gap":C,"habit","habit"
+</PATH>
+<PATH id="(s106u444n.wav)" word_cnt="9" sequence="159">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s106u445n.wav)" word_cnt="9" sequence="160">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s106u446n.wav)" word_cnt="8" sequence="161">
+S,"thomas","tom":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s106u449n.wav)" word_cnt="11" sequence="162">
+C,"ralph","ralph":C,"prepared","prepared":I,,"a":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s106u450n.wav)" word_cnt="10" sequence="163">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":S,"in","and":S,"drawing","drawn":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s106u451n.wav)" word_cnt="11" sequence="164">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s106u452n.wav)" word_cnt="8" sequence="165">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s107u428n.wav)" word_cnt="11" sequence="166">
+I,,"i":S,"a","grabbed":S,"crab","challenge":S,"challenged","for":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s107u429n.wav)" word_cnt="10" sequence="167">
+C,"a","a":I,,"tooth":S,"toothpaste","base":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s107u430n.wav)" word_cnt="11" sequence="168">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s107u432n.wav)" word_cnt="11" sequence="169">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s107u433n.wav)" word_cnt="11" sequence="170">
+C,"the","the":I,,"over":S,"overweight","age":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s107u435n.wav)" word_cnt="11" sequence="171">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s107u436n.wav)" word_cnt="6" sequence="172">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s107u437n.wav)" word_cnt="9" sequence="173">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":S,"thoughtless","thotless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s107u439n.wav)" word_cnt="8" sequence="174">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s107u440n.wav)" word_cnt="11" sequence="175">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":I,,"is":I,,"still":S,"store","on":S,"never","average":C,"changes","changes"
+</PATH>
+<PATH id="(s107u441n.wav)" word_cnt="10" sequence="176">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":S,"a","the":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s107u442n.wav)" word_cnt="8" sequence="177">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":D,"the",:S,"gab","legab":C,"habit","habit"
+</PATH>
+<PATH id="(s107u444n.wav)" word_cnt="9" sequence="178">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s107u445n.wav)" word_cnt="9" sequence="179">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s107u446n.wav)" word_cnt="8" sequence="180">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s107u448n.wav)" word_cnt="6" sequence="181">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s107u449n.wav)" word_cnt="11" sequence="182">
+S,"ralph","roth":C,"prepared","prepared":I,,"a":S,"red","bread":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s107u450n.wav)" word_cnt="10" sequence="183">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s107u451n.wav)" word_cnt="11" sequence="184">
+C,"the","the":C,"thick","thick":D,"elm",:S,"forest","alimphorist":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":S,"elm","alimnes":C,"disease","disease"
+</PATH>
+<PATH id="(s107u452n.wav)" word_cnt="8" sequence="185">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s108u428n.wav)" word_cnt="11" sequence="186">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":I,,"quip":S,"quick","stabbed":S,"stab","the":S,"vanquished","anguish":S,"him","tin"
+</PATH>
+<PATH id="(s108u429n.wav)" word_cnt="9" sequence="187">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s108u430n.wav)" word_cnt="11" sequence="188">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s108u432n.wav)" word_cnt="11" sequence="189">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s108u433n.wav)" word_cnt="10" sequence="190">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s108u434n.wav)" word_cnt="7" sequence="191">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s108u435n.wav)" word_cnt="11" sequence="192">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s108u436n.wav)" word_cnt="6" sequence="193">
+C,"please","please":S,"sing","see":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s108u437n.wav)" word_cnt="9" sequence="194">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s108u438n.wav)" word_cnt="13" sequence="195">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":I,,"a":I,,"strap":S,"shrapnel","nail":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s108u439n.wav)" word_cnt="8" sequence="196">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s108u440n.wav)" word_cnt="10" sequence="197">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":I,,"is":S,"store","stored":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s108u441n.wav)" word_cnt="10" sequence="198">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s108u442n.wav)" word_cnt="8" sequence="199">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s108u444n.wav)" word_cnt="9" sequence="200">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s108u445n.wav)" word_cnt="9" sequence="201">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s108u446n.wav)" word_cnt="8" sequence="202">
+S,"thomas","tomas":C,"thinks","thinks":S,"a","the":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s108u448n.wav)" word_cnt="6" sequence="203">
+C,"spherical","spherical":S,"gifts","gibs":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s108u449n.wav)" word_cnt="10" sequence="204">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s108u450n.wav)" word_cnt="10" sequence="205">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s108u451n.wav)" word_cnt="11" sequence="206">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s108u452n.wav)" word_cnt="8" sequence="207">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s109u428n.wav)" word_cnt="10" sequence="208">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s109u429n.wav)" word_cnt="9" sequence="209">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s109u430n.wav)" word_cnt="11" sequence="210">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s109u432n.wav)" word_cnt="11" sequence="211">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s109u433n.wav)" word_cnt="10" sequence="212">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s109u435n.wav)" word_cnt="11" sequence="213">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":S,"zircons","circums":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s109u436n.wav)" word_cnt="6" sequence="214">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s109u437n.wav)" word_cnt="10" sequence="215">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":I,,"police":S,"policeman","man":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s109u438n.wav)" word_cnt="11" sequence="216">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s109u439n.wav)" word_cnt="8" sequence="217">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s109u440n.wav)" word_cnt="9" sequence="218">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":C,"plymouth","plymouth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s109u441n.wav)" word_cnt="10" sequence="219">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s109u442n.wav)" word_cnt="8" sequence="220">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s109u444n.wav)" word_cnt="9" sequence="221">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s109u445n.wav)" word_cnt="9" sequence="222">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s109u446n.wav)" word_cnt="8" sequence="223">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":S,"clamp","clam":C,"solves","solves":S,"the","a":C,"problem","problem"
+</PATH>
+<PATH id="(s109u448n.wav)" word_cnt="6" sequence="224">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s109u449n.wav)" word_cnt="10" sequence="225">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s109u450n.wav)" word_cnt="10" sequence="226">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s109u452n.wav)" word_cnt="8" sequence="227">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s101u443n.wav)" word_cnt="10" sequence="557">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s102u431n.wav)" word_cnt="7" sequence="558">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s109u431n.wav)" word_cnt="7" sequence="559">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s101u431n.wav)" word_cnt="7" sequence="562">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s102u443n.wav)" word_cnt="10" sequence="563">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s103u431n.wav)" word_cnt="7" sequence="564">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s103u443n.wav)" word_cnt="10" sequence="565">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s104u431n.wav)" word_cnt="7" sequence="566">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s104u443n.wav)" word_cnt="10" sequence="567">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s105u431n.wav)" word_cnt="7" sequence="568">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s105u443n.wav)" word_cnt="10" sequence="569">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s106u431n.wav)" word_cnt="7" sequence="570">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s106u443n.wav)" word_cnt="10" sequence="571">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s107u431n.wav)" word_cnt="7" sequence="572">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s107u443n.wav)" word_cnt="10" sequence="573">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s108u431n.wav)" word_cnt="7" sequence="574">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s108u443n.wav)" word_cnt="10" sequence="575">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s109u443n.wav)" word_cnt="9" sequence="576">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s101u447n.wav)" word_cnt="7" sequence="609">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s102u447n.wav)" word_cnt="7" sequence="610">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s103u447n.wav)" word_cnt="7" sequence="611">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s104u447n.wav)" word_cnt="7" sequence="612">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s105u447n.wav)" word_cnt="7" sequence="613">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s106u447n.wav)" word_cnt="7" sequence="614">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s107u447n.wav)" word_cnt="7" sequence="615">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s108u447n.wav)" word_cnt="7" sequence="616">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s109u447n.wav)" word_cnt="7" sequence="617">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+</SPEAKER>
+<SPEAKER id="s11">
+<PATH id="(s111u435n.wav)" word_cnt="11" sequence="14">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":S,"stylish","styled":C,"shoes","shoes"
+</PATH>
+<PATH id="(s112u430n.wav)" word_cnt="11" sequence="15">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s112u446n.wav)" word_cnt="8" sequence="16">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s112u451n.wav)" word_cnt="11" sequence="17">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s116u449n.wav)" word_cnt="10" sequence="18">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s116u451n.wav)" word_cnt="11" sequence="19">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s117u433n.wav)" word_cnt="10" sequence="20">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s118u440n.wav)" word_cnt="11" sequence="21">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":C,"plymouth","plymouth":C,"variety","variety":I,,"is":I,,"stored":S,"store","in":S,"never","ever":C,"changes","changes"
+</PATH>
+<PATH id="(s119u433n.wav)" word_cnt="10" sequence="22">
+C,"the","the":S,"overweight","overwight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s111u428n.wav)" word_cnt="10" sequence="228">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s111u429n.wav)" word_cnt="9" sequence="229">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s111u430n.wav)" word_cnt="11" sequence="230">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s111u432n.wav)" word_cnt="11" sequence="231">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":S,"temperate","tempered":C,"zones","zones"
+</PATH>
+<PATH id="(s111u433n.wav)" word_cnt="10" sequence="232">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s111u434n.wav)" word_cnt="7" sequence="233">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s111u436n.wav)" word_cnt="6" sequence="234">
+C,"please","please":D,"sing",:S,"just","suggest":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s111u437n.wav)" word_cnt="9" sequence="235">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s111u438n.wav)" word_cnt="11" sequence="236">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s111u439n.wav)" word_cnt="8" sequence="237">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s111u440n.wav)" word_cnt="9" sequence="238">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s111u441n.wav)" word_cnt="10" sequence="239">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s111u442n.wav)" word_cnt="8" sequence="240">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s111u444n.wav)" word_cnt="9" sequence="241">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s111u445n.wav)" word_cnt="9" sequence="242">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s111u446n.wav)" word_cnt="8" sequence="243">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":S,"larger","large":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s111u448n.wav)" word_cnt="6" sequence="244">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s111u449n.wav)" word_cnt="10" sequence="245">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s111u450n.wav)" word_cnt="10" sequence="246">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s111u451n.wav)" word_cnt="11" sequence="247">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s111u452n.wav)" word_cnt="8" sequence="248">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s112u428n.wav)" word_cnt="10" sequence="249">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s112u429n.wav)" word_cnt="9" sequence="250">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s112u432n.wav)" word_cnt="12" sequence="251">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":I,,"in":S,"on","the":C,"steep","steep":C,"jungle","jungle":S,"like","lake":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s112u433n.wav)" word_cnt="10" sequence="252">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s112u434n.wav)" word_cnt="7" sequence="253">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s112u435n.wav)" word_cnt="11" sequence="254">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s112u436n.wav)" word_cnt="6" sequence="255">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s112u437n.wav)" word_cnt="9" sequence="256">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s112u438n.wav)" word_cnt="11" sequence="257">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s112u439n.wav)" word_cnt="8" sequence="258">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s112u440n.wav)" word_cnt="9" sequence="259">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s112u441n.wav)" word_cnt="10" sequence="260">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s112u442n.wav)" word_cnt="8" sequence="261">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":S,"gab","gap":C,"habit","habit"
+</PATH>
+<PATH id="(s112u444n.wav)" word_cnt="9" sequence="262">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s112u445n.wav)" word_cnt="9" sequence="263">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s112u448n.wav)" word_cnt="6" sequence="264">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s112u449n.wav)" word_cnt="10" sequence="265">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s112u450n.wav)" word_cnt="10" sequence="266">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s112u452n.wav)" word_cnt="8" sequence="267">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s116u428n.wav)" word_cnt="10" sequence="268">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s116u429n.wav)" word_cnt="9" sequence="269">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s116u430n.wav)" word_cnt="11" sequence="270">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s116u432n.wav)" word_cnt="11" sequence="271">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s116u433n.wav)" word_cnt="10" sequence="272">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s116u434n.wav)" word_cnt="7" sequence="273">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s116u435n.wav)" word_cnt="11" sequence="274">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s116u436n.wav)" word_cnt="6" sequence="275">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s116u437n.wav)" word_cnt="9" sequence="276">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s116u438n.wav)" word_cnt="11" sequence="277">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s116u439n.wav)" word_cnt="8" sequence="278">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s116u440n.wav)" word_cnt="9" sequence="279">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s116u441n.wav)" word_cnt="10" sequence="280">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s116u442n.wav)" word_cnt="8" sequence="281">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s116u444n.wav)" word_cnt="9" sequence="282">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s116u445n.wav)" word_cnt="9" sequence="283">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s116u446n.wav)" word_cnt="8" sequence="284">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s116u448n.wav)" word_cnt="6" sequence="285">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s116u450n.wav)" word_cnt="10" sequence="286">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s116u452n.wav)" word_cnt="8" sequence="287">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s117u428n.wav)" word_cnt="10" sequence="288">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s117u429n.wav)" word_cnt="9" sequence="289">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s117u430n.wav)" word_cnt="11" sequence="290">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s117u432n.wav)" word_cnt="11" sequence="291">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s117u434n.wav)" word_cnt="7" sequence="292">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s117u435n.wav)" word_cnt="11" sequence="293">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":S,"zircons","zekons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s117u436n.wav)" word_cnt="6" sequence="294">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s117u437n.wav)" word_cnt="9" sequence="295">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s117u438n.wav)" word_cnt="11" sequence="296">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s117u439n.wav)" word_cnt="8" sequence="297">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s117u440n.wav)" word_cnt="9" sequence="298">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s117u441n.wav)" word_cnt="10" sequence="299">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s117u442n.wav)" word_cnt="8" sequence="300">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s117u444n.wav)" word_cnt="10" sequence="301">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":I,,"clam":S,"clamshell","shell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s117u445n.wav)" word_cnt="9" sequence="302">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s117u446n.wav)" word_cnt="8" sequence="303">
+S,"thomas","timus":C,"thinks","thinks":C,"a","a":S,"larger","large":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s117u448n.wav)" word_cnt="6" sequence="304">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s117u449n.wav)" word_cnt="10" sequence="305">
+S,"ralph","relf":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s117u450n.wav)" word_cnt="10" sequence="306">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s117u451n.wav)" word_cnt="12" sequence="307">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":I,,"the":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s117u452n.wav)" word_cnt="8" sequence="308">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s118u428n.wav)" word_cnt="10" sequence="309">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s118u429n.wav)" word_cnt="9" sequence="310">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s118u430n.wav)" word_cnt="11" sequence="311">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s118u432n.wav)" word_cnt="11" sequence="312">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":S,"jungle","jungles":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s118u433n.wav)" word_cnt="10" sequence="313">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s118u434n.wav)" word_cnt="7" sequence="314">
+C,"each","each":S,"stag","dagg":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s118u435n.wav)" word_cnt="11" sequence="315">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":S,"stylish","silo":C,"shoes","shoes"
+</PATH>
+<PATH id="(s118u436n.wav)" word_cnt="6" sequence="316">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s118u437n.wav)" word_cnt="9" sequence="317">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s118u438n.wav)" word_cnt="11" sequence="318">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s118u439n.wav)" word_cnt="8" sequence="319">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s118u441n.wav)" word_cnt="10" sequence="320">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s118u442n.wav)" word_cnt="8" sequence="321">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s118u444n.wav)" word_cnt="9" sequence="322">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s118u445n.wav)" word_cnt="9" sequence="323">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s118u446n.wav)" word_cnt="8" sequence="324">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s118u448n.wav)" word_cnt="6" sequence="325">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s118u449n.wav)" word_cnt="10" sequence="326">
+C,"ralph","ralph":C,"prepared","prepared":S,"red","bread":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s118u450n.wav)" word_cnt="10" sequence="327">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s118u451n.wav)" word_cnt="11" sequence="328">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s118u452n.wav)" word_cnt="8" sequence="329">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s119u428n.wav)" word_cnt="10" sequence="330">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s119u429n.wav)" word_cnt="9" sequence="331">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s119u430n.wav)" word_cnt="12" sequence="332">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":I,,"pure":S,"purists","as":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s119u432n.wav)" word_cnt="11" sequence="333">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s119u434n.wav)" word_cnt="7" sequence="334">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s119u435n.wav)" word_cnt="11" sequence="335">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s119u436n.wav)" word_cnt="6" sequence="336">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s119u437n.wav)" word_cnt="9" sequence="337">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s119u438n.wav)" word_cnt="11" sequence="338">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s119u439n.wav)" word_cnt="8" sequence="339">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s119u440n.wav)" word_cnt="9" sequence="340">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s119u441n.wav)" word_cnt="10" sequence="341">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s119u442n.wav)" word_cnt="8" sequence="342">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s119u444n.wav)" word_cnt="9" sequence="343">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s119u445n.wav)" word_cnt="9" sequence="344">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s119u446n.wav)" word_cnt="8" sequence="345">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s119u448n.wav)" word_cnt="6" sequence="346">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s119u449n.wav)" word_cnt="10" sequence="347">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s119u450n.wav)" word_cnt="10" sequence="348">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s119u451n.wav)" word_cnt="11" sequence="349">
+C,"the","the":C,"thick","thick":S,"elm","album":S,"forest","force":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":S,"elm","album":C,"disease","disease"
+</PATH>
+<PATH id="(s119u452n.wav)" word_cnt="8" sequence="350">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s118u431n.wav)" word_cnt="7" sequence="560">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s111u431n.wav)" word_cnt="7" sequence="577">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s111u443n.wav)" word_cnt="10" sequence="578">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s112u431n.wav)" word_cnt="7" sequence="579">
+C,"the","the":C,"5th","5th":C,"jar","jar":S,"contains","contained":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s112u443n.wav)" word_cnt="9" sequence="580">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s116u431n.wav)" word_cnt="7" sequence="581">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s116u443n.wav)" word_cnt="9" sequence="582">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s117u431n.wav)" word_cnt="7" sequence="583">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s117u443n.wav)" word_cnt="10" sequence="584">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s118u443n.wav)" word_cnt="9" sequence="585">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s119u431n.wav)" word_cnt="7" sequence="586">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s119u443n.wav)" word_cnt="10" sequence="587">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s111u447n.wav)" word_cnt="7" sequence="618">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s112u447n.wav)" word_cnt="7" sequence="619">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s116u447n.wav)" word_cnt="7" sequence="620">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s117u447n.wav)" word_cnt="7" sequence="621">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s118u447n.wav)" word_cnt="7" sequence="622">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s119u447n.wav)" word_cnt="7" sequence="623">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+</SPEAKER>
+<SPEAKER id="s12">
+<PATH id="(s120u451n.wav)" word_cnt="11" sequence="23">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s122u441n.wav)" word_cnt="10" sequence="24">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s123u437n.wav)" word_cnt="9" sequence="25">
+S,"they","the":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s123u441n.wav)" word_cnt="10" sequence="26">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s124u428n.wav)" word_cnt="10" sequence="27">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s124u432n.wav)" word_cnt="11" sequence="28">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s124u436n.wav)" word_cnt="6" sequence="29">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s124u439n.wav)" word_cnt="8" sequence="30">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s124u444n.wav)" word_cnt="9" sequence="31">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s124u448n.wav)" word_cnt="6" sequence="32">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s124u449n.wav)" word_cnt="10" sequence="33">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s125u437n.wav)" word_cnt="9" sequence="34">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s125u440n.wav)" word_cnt="9" sequence="35">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":C,"plymouth","plymouth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s125u446n.wav)" word_cnt="8" sequence="36">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":S,"clamp","clam":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s128u430n.wav)" word_cnt="11" sequence="37">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s128u450n.wav)" word_cnt="10" sequence="38">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s129u442n.wav)" word_cnt="8" sequence="39">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s120u428n.wav)" word_cnt="10" sequence="351">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s120u429n.wav)" word_cnt="9" sequence="352">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s120u430n.wav)" word_cnt="11" sequence="353">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":S,"purists","curious":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s120u432n.wav)" word_cnt="11" sequence="354">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s120u433n.wav)" word_cnt="10" sequence="355">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s120u434n.wav)" word_cnt="7" sequence="356">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s120u435n.wav)" word_cnt="11" sequence="357">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":S,"zircons","zircones":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s120u436n.wav)" word_cnt="6" sequence="358">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s120u437n.wav)" word_cnt="9" sequence="359">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s120u438n.wav)" word_cnt="11" sequence="360">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s120u439n.wav)" word_cnt="8" sequence="361">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s120u440n.wav)" word_cnt="10" sequence="362">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":I,,"is":S,"store","torn":S,"never","ever":C,"changes","changes"
+</PATH>
+<PATH id="(s120u441n.wav)" word_cnt="10" sequence="363">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s120u442n.wav)" word_cnt="8" sequence="364">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s120u444n.wav)" word_cnt="9" sequence="365">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s120u445n.wav)" word_cnt="9" sequence="366">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s120u446n.wav)" word_cnt="8" sequence="367">
+S,"thomas","tomas":C,"thinks","thinks":S,"a","the":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s120u448n.wav)" word_cnt="6" sequence="368">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s120u449n.wav)" word_cnt="10" sequence="369">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s120u450n.wav)" word_cnt="10" sequence="370">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s120u452n.wav)" word_cnt="8" sequence="371">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s121u428n.wav)" word_cnt="10" sequence="372">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s121u429n.wav)" word_cnt="9" sequence="373">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s121u430n.wav)" word_cnt="11" sequence="374">
+C,"those","those":C,"who","who":S,"are","were":C,"not","not":C,"purists","purists":S,"use","used":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s121u432n.wav)" word_cnt="11" sequence="375">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":S,"temperate","tipperine":C,"zones","zones"
+</PATH>
+<PATH id="(s121u433n.wav)" word_cnt="10" sequence="376">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s121u434n.wav)" word_cnt="7" sequence="377">
+C,"each","each":S,"stag","stack":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":S,"fawn","phone"
+</PATH>
+<PATH id="(s121u435n.wav)" word_cnt="11" sequence="378">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s121u436n.wav)" word_cnt="6" sequence="379">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s121u437n.wav)" word_cnt="9" sequence="380">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s121u438n.wav)" word_cnt="11" sequence="381">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s121u439n.wav)" word_cnt="8" sequence="382">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s121u440n.wav)" word_cnt="9" sequence="383">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":C,"plymouth","plymouth":C,"variety","variety":S,"store","stories":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s121u441n.wav)" word_cnt="10" sequence="384">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s121u442n.wav)" word_cnt="8" sequence="385">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s121u444n.wav)" word_cnt="9" sequence="386">
+C,"the","the":C,"toddler","toddler":C,"found","found":S,"a","the":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s121u445n.wav)" word_cnt="9" sequence="387">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s121u446n.wav)" word_cnt="8" sequence="388">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s121u448n.wav)" word_cnt="6" sequence="389">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s121u449n.wav)" word_cnt="10" sequence="390">
+S,"ralph","aralf":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s121u450n.wav)" word_cnt="10" sequence="391">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s121u451n.wav)" word_cnt="11" sequence="392">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s121u452n.wav)" word_cnt="8" sequence="393">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s122u428n.wav)" word_cnt="10" sequence="394">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s122u429n.wav)" word_cnt="9" sequence="395">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s122u430n.wav)" word_cnt="11" sequence="396">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s122u432n.wav)" word_cnt="11" sequence="397">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s122u433n.wav)" word_cnt="10" sequence="398">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s122u434n.wav)" word_cnt="7" sequence="399">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s122u435n.wav)" word_cnt="11" sequence="400">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s122u436n.wav)" word_cnt="6" sequence="401">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s122u437n.wav)" word_cnt="9" sequence="402">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s122u438n.wav)" word_cnt="11" sequence="403">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s122u439n.wav)" word_cnt="8" sequence="404">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s122u440n.wav)" word_cnt="9" sequence="405">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s122u442n.wav)" word_cnt="8" sequence="406">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s122u444n.wav)" word_cnt="10" sequence="407">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":I,,"clam":S,"clamshell","shell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s122u445n.wav)" word_cnt="9" sequence="408">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s122u446n.wav)" word_cnt="8" sequence="409">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s122u448n.wav)" word_cnt="6" sequence="410">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s122u449n.wav)" word_cnt="10" sequence="411">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s122u450n.wav)" word_cnt="10" sequence="412">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s122u451n.wav)" word_cnt="11" sequence="413">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s122u452n.wav)" word_cnt="8" sequence="414">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s123u428n.wav)" word_cnt="10" sequence="415">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s123u429n.wav)" word_cnt="9" sequence="416">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s123u430n.wav)" word_cnt="11" sequence="417">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s123u432n.wav)" word_cnt="11" sequence="418">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s123u433n.wav)" word_cnt="10" sequence="419">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s123u434n.wav)" word_cnt="7" sequence="420">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s123u435n.wav)" word_cnt="11" sequence="421">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s123u436n.wav)" word_cnt="6" sequence="422">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s123u438n.wav)" word_cnt="11" sequence="423">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s123u439n.wav)" word_cnt="8" sequence="424">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s123u440n.wav)" word_cnt="9" sequence="425">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s123u442n.wav)" word_cnt="8" sequence="426">
+S,"suburban","serpent":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s123u444n.wav)" word_cnt="9" sequence="427">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s123u445n.wav)" word_cnt="9" sequence="428">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s123u446n.wav)" word_cnt="8" sequence="429">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s123u448n.wav)" word_cnt="6" sequence="430">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s123u449n.wav)" word_cnt="10" sequence="431">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s123u450n.wav)" word_cnt="10" sequence="432">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s123u451n.wav)" word_cnt="11" sequence="433">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s123u452n.wav)" word_cnt="8" sequence="434">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s124u429n.wav)" word_cnt="9" sequence="435">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s124u430n.wav)" word_cnt="11" sequence="436">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s124u433n.wav)" word_cnt="10" sequence="437">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s124u434n.wav)" word_cnt="7" sequence="438">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":S,"fawn","fun"
+</PATH>
+<PATH id="(s124u435n.wav)" word_cnt="11" sequence="439">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":S,"stylish","silo":C,"shoes","shoes"
+</PATH>
+<PATH id="(s124u437n.wav)" word_cnt="9" sequence="440">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s124u438n.wav)" word_cnt="11" sequence="441">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s124u440n.wav)" word_cnt="10" sequence="442">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":I,,"is":S,"store","stored":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s124u441n.wav)" word_cnt="10" sequence="443">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s124u442n.wav)" word_cnt="8" sequence="444">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s124u445n.wav)" word_cnt="9" sequence="445">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s124u446n.wav)" word_cnt="8" sequence="446">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s124u450n.wav)" word_cnt="10" sequence="447">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":S,"in","and":S,"drawing","dryened":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s124u451n.wav)" word_cnt="11" sequence="448">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s124u452n.wav)" word_cnt="8" sequence="449">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s125u428n.wav)" word_cnt="10" sequence="450">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s125u429n.wav)" word_cnt="10" sequence="451">
+C,"a","a":I,,"toothpick":S,"toothpaste","is":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s125u430n.wav)" word_cnt="11" sequence="452">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s125u432n.wav)" word_cnt="11" sequence="453">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s125u433n.wav)" word_cnt="10" sequence="454">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s125u434n.wav)" word_cnt="7" sequence="455">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s125u435n.wav)" word_cnt="11" sequence="456">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s125u436n.wav)" word_cnt="6" sequence="457">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s125u438n.wav)" word_cnt="11" sequence="458">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s125u439n.wav)" word_cnt="8" sequence="459">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s125u441n.wav)" word_cnt="10" sequence="460">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s125u442n.wav)" word_cnt="8" sequence="461">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s125u444n.wav)" word_cnt="9" sequence="462">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s125u445n.wav)" word_cnt="9" sequence="463">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s125u448n.wav)" word_cnt="6" sequence="464">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s125u449n.wav)" word_cnt="11" sequence="465">
+C,"ralph","ralph":C,"prepared","prepared":I,,"a":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s125u450n.wav)" word_cnt="10" sequence="466">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s125u451n.wav)" word_cnt="11" sequence="467">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s125u452n.wav)" word_cnt="8" sequence="468">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s127u428n.wav)" word_cnt="10" sequence="469">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s127u429n.wav)" word_cnt="9" sequence="470">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s127u430n.wav)" word_cnt="11" sequence="471">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":S,"purists","purest":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s127u432n.wav)" word_cnt="11" sequence="472">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s127u433n.wav)" word_cnt="10" sequence="473">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s127u434n.wav)" word_cnt="7" sequence="474">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s127u435n.wav)" word_cnt="11" sequence="475">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s128u428n.wav)" word_cnt="10" sequence="476">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":S,"stab","stabged":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s128u429n.wav)" word_cnt="9" sequence="477">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s128u432n.wav)" word_cnt="11" sequence="478">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s128u433n.wav)" word_cnt="10" sequence="479">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s128u434n.wav)" word_cnt="7" sequence="480">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s128u435n.wav)" word_cnt="11" sequence="481">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":S,"stylish","silo":C,"shoes","shoes"
+</PATH>
+<PATH id="(s128u436n.wav)" word_cnt="6" sequence="482">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s128u437n.wav)" word_cnt="9" sequence="483">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s128u438n.wav)" word_cnt="11" sequence="484">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s128u439n.wav)" word_cnt="8" sequence="485">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s128u440n.wav)" word_cnt="10" sequence="486">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":C,"plymouth","plymouth":C,"variety","variety":I,,"is":S,"store","stored":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s128u441n.wav)" word_cnt="10" sequence="487">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s128u442n.wav)" word_cnt="8" sequence="488">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s128u444n.wav)" word_cnt="9" sequence="489">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s128u445n.wav)" word_cnt="9" sequence="490">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s128u446n.wav)" word_cnt="8" sequence="491">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s128u448n.wav)" word_cnt="6" sequence="492">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s128u449n.wav)" word_cnt="10" sequence="493">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s128u451n.wav)" word_cnt="12" sequence="494">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":I,,"the":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s128u452n.wav)" word_cnt="8" sequence="495">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s129u428n.wav)" word_cnt="10" sequence="496">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s129u429n.wav)" word_cnt="9" sequence="497">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s129u430n.wav)" word_cnt="11" sequence="498">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s129u432n.wav)" word_cnt="11" sequence="499">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":C,"in","in":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s129u433n.wav)" word_cnt="10" sequence="500">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s129u434n.wav)" word_cnt="7" sequence="501">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s129u435n.wav)" word_cnt="11" sequence="502">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":S,"zircons","zircones":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s129u436n.wav)" word_cnt="6" sequence="503">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s129u437n.wav)" word_cnt="9" sequence="504">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s129u438n.wav)" word_cnt="11" sequence="505">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s129u439n.wav)" word_cnt="8" sequence="506">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s129u440n.wav)" word_cnt="9" sequence="507">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s129u441n.wav)" word_cnt="10" sequence="508">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s129u444n.wav)" word_cnt="9" sequence="509">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s129u445n.wav)" word_cnt="9" sequence="510">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s129u446n.wav)" word_cnt="8" sequence="511">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s129u448n.wav)" word_cnt="6" sequence="512">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s129u449n.wav)" word_cnt="10" sequence="513">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s129u450n.wav)" word_cnt="10" sequence="514">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":C,"in","in":C,"drawing","drawing":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s129u451n.wav)" word_cnt="11" sequence="515">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s129u452n.wav)" word_cnt="8" sequence="516">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s129u431n.wav)" word_cnt="7" sequence="561">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s120u431n.wav)" word_cnt="7" sequence="588">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s120u443n.wav)" word_cnt="10" sequence="589">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s121u431n.wav)" word_cnt="7" sequence="590">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s121u443n.wav)" word_cnt="10" sequence="591">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s122u431n.wav)" word_cnt="7" sequence="592">
+C,"the","the":C,"5th","5th":C,"jar","jar":S,"contains","contained":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s122u443n.wav)" word_cnt="10" sequence="593">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s123u431n.wav)" word_cnt="7" sequence="594">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s123u443n.wav)" word_cnt="9" sequence="595">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s124u431n.wav)" word_cnt="7" sequence="596">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s124u443n.wav)" word_cnt="10" sequence="597">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s125u431n.wav)" word_cnt="7" sequence="598">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s125u443n.wav)" word_cnt="10" sequence="599">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s127u431n.wav)" word_cnt="7" sequence="600">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s128u431n.wav)" word_cnt="7" sequence="601">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s128u443n.wav)" word_cnt="9" sequence="602">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s129u443n.wav)" word_cnt="9" sequence="603">
+C,"a","a":C,"lone","lone":C,"star","star":C,"shone","shone":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s120u447n.wav)" word_cnt="7" sequence="624">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s121u447n.wav)" word_cnt="7" sequence="625">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s122u447n.wav)" word_cnt="7" sequence="626">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s123u447n.wav)" word_cnt="7" sequence="627">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s124u447n.wav)" word_cnt="7" sequence="628">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s125u447n.wav)" word_cnt="7" sequence="629">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s128u447n.wav)" word_cnt="7" sequence="630">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s129u447n.wav)" word_cnt="7" sequence="631">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+</SPEAKER>
+<SPEAKER id="s13">
+<PATH id="(s130u428n.wav)" word_cnt="10" sequence="40">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s130u429n.wav)" word_cnt="9" sequence="41">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s131u435n.wav)" word_cnt="11" sequence="42">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s131u437n.wav)" word_cnt="9" sequence="43">
+C,"they","they":S,"used","use":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":S,"thoughtless","thawless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s130u430n.wav)" word_cnt="11" sequence="517">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s130u432n.wav)" word_cnt="11" sequence="518">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":C,"on","on":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s130u433n.wav)" word_cnt="10" sequence="519">
+C,"the","the":C,"overweight","overweight":C,"charmer","charmer":C,"could","could":C,"slip","slip":C,"poison","poison":C,"into","into":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s130u434n.wav)" word_cnt="7" sequence="520">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s130u435n.wav)" word_cnt="11" sequence="521">
+C,"the","the":C,"rich","rich":C,"should","should":C,"invest","invest":C,"in","in":C,"black","black":C,"zircons","zircons":C,"instead","instead":C,"of","of":C,"stylish","stylish":C,"shoes","shoes"
+</PATH>
+<PATH id="(s130u436n.wav)" word_cnt="6" sequence="522">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s130u437n.wav)" word_cnt="9" sequence="523">
+C,"they","they":C,"used","used":C,"an","an":C,"aggressive","aggressive":C,"policeman","policeman":C,"to","to":C,"flag","flag":C,"thoughtless","thoughtless":C,"motorists","motorists"
+</PATH>
+<PATH id="(s130u438n.wav)" word_cnt="11" sequence="524">
+S,"shell","shallow":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s130u439n.wav)" word_cnt="8" sequence="525">
+C,"that","that":C,"stinging","stinging":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s130u440n.wav)" word_cnt="10" sequence="526">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":I,,"plume":S,"plymouth","a":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s130u441n.wav)" word_cnt="10" sequence="527">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s130u442n.wav)" word_cnt="8" sequence="528">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s130u444n.wav)" word_cnt="9" sequence="529">
+C,"the","the":C,"toddler","toddler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s130u445n.wav)" word_cnt="9" sequence="530">
+C,"what","what":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s130u446n.wav)" word_cnt="8" sequence="531">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s130u448n.wav)" word_cnt="6" sequence="532">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s130u449n.wav)" word_cnt="10" sequence="533">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s130u450n.wav)" word_cnt="10" sequence="534">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":C,"data","data":C,"points","points":S,"in","and":S,"drawing","drawn":C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s130u451n.wav)" word_cnt="11" sequence="535">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":C,"dutch","dutch":C,"elm","elm":C,"disease","disease"
+</PATH>
+<PATH id="(s130u452n.wav)" word_cnt="8" sequence="536">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":C,"are","are":C,"used","used"
+</PATH>
+<PATH id="(s131u428n.wav)" word_cnt="10" sequence="537">
+C,"a","a":C,"crab","crab":C,"challenged","challenged":C,"me","me":C,"but","but":C,"a","a":C,"quick","quick":C,"stab","stab":C,"vanquished","vanquished":C,"him","him"
+</PATH>
+<PATH id="(s131u429n.wav)" word_cnt="9" sequence="538">
+C,"a","a":C,"toothpaste","toothpaste":C,"tube","tube":C,"should","should":C,"be","be":C,"squeezed","squeezed":C,"from","from":C,"the","the":C,"bottom","bottom"
+</PATH>
+<PATH id="(s131u430n.wav)" word_cnt="11" sequence="539">
+C,"those","those":C,"who","who":C,"are","are":C,"not","not":C,"purists","purists":C,"use","use":C,"canned","canned":C,"vegetables","vegetables":C,"when","when":C,"making","making":C,"stew","stew"
+</PATH>
+<PATH id="(s131u432n.wav)" word_cnt="11" sequence="540">
+C,"coffee","coffee":C,"is","is":C,"grown","grown":S,"on","in":C,"steep","steep":C,"jungle","jungle":C,"like","like":C,"slopes","slopes":S,"in","and":C,"temperate","temperate":C,"zones","zones"
+</PATH>
+<PATH id="(s131u433n.wav)" word_cnt="10" sequence="541">
+C,"the","the":C,"overweight","overweight":S,"charmer","child":S,"could","murk":S,"slip","is":S,"poison","so":S,"into","poisoned":C,"anyone","anyone":C,"is","is":C,"tea","tea"
+</PATH>
+<PATH id="(s131u434n.wav)" word_cnt="7" sequence="542">
+C,"each","each":C,"stag","stag":C,"surely","surely":C,"finds","finds":C,"a","a":C,"big","big":C,"fawn","fawn"
+</PATH>
+<PATH id="(s131u436n.wav)" word_cnt="6" sequence="543">
+C,"please","please":C,"sing","sing":C,"just","just":C,"the","the":C,"club","club":C,"theme","theme"
+</PATH>
+<PATH id="(s131u438n.wav)" word_cnt="11" sequence="544">
+C,"shell","shell":C,"shock","shock":C,"caused","caused":C,"by","by":C,"shrapnel","shrapnel":C,"is","is":C,"sometimes","sometimes":C,"cured","cured":C,"through","through":C,"group","group":C,"therapy","therapy"
+</PATH>
+<PATH id="(s131u439n.wav)" word_cnt="8" sequence="545">
+D,"that",:S,"stinging","esteining":C,"vapor","vapor":C,"was","was":C,"caused","caused":C,"by","by":C,"chloride","chloride":C,"vaporization","vaporization"
+</PATH>
+<PATH id="(s131u440n.wav)" word_cnt="9" sequence="546">
+C,"the","the":C,"advertising","advertising":C,"verse","verse":C,"of","of":S,"plymouth","plimoth":C,"variety","variety":C,"store","store":C,"never","never":C,"changes","changes"
+</PATH>
+<PATH id="(s131u441n.wav)" word_cnt="10" sequence="547">
+C,"do","do":C,"not","not":C,"look","look":C,"for","for":C,"group","group":C,"valuables","valuables":C,"in","in":C,"a","a":C,"bank","bank":C,"vault","vault"
+</PATH>
+<PATH id="(s131u442n.wav)" word_cnt="8" sequence="548">
+C,"suburban","suburban":C,"housewives","housewives":C,"often","often":C,"suffer","suffer":C,"from","from":C,"the","the":C,"gab","gab":C,"habit","habit"
+</PATH>
+<PATH id="(s131u444n.wav)" word_cnt="9" sequence="549">
+C,"the","the":S,"toddler","tyler":C,"found","found":C,"a","a":C,"clamshell","clamshell":C,"near","near":C,"the","the":D,"camp",:S,"site","campsite"
+</PATH>
+<PATH id="(s131u445n.wav)" word_cnt="9" sequence="550">
+S,"what","where":C,"is","is":C,"this","this":C,"large","large":C,"thing","thing":C,"by","by":C,"the","the":C,"ironing","ironing":C,"board","board"
+</PATH>
+<PATH id="(s131u446n.wav)" word_cnt="8" sequence="551">
+S,"thomas","tomas":C,"thinks","thinks":C,"a","a":C,"larger","larger":C,"clamp","clamp":C,"solves","solves":C,"the","the":C,"problem","problem"
+</PATH>
+<PATH id="(s131u448n.wav)" word_cnt="6" sequence="552">
+C,"spherical","spherical":C,"gifts","gifts":C,"are","are":C,"difficult","difficult":C,"to","to":C,"wrap","wrap"
+</PATH>
+<PATH id="(s131u449n.wav)" word_cnt="10" sequence="553">
+C,"ralph","ralph":C,"prepared","prepared":C,"red","red":C,"snapper","snapper":C,"with","with":C,"fresh","fresh":C,"lemon","lemon":C,"sauce","sauce":C,"for","for":C,"dinner","dinner"
+</PATH>
+<PATH id="(s131u450n.wav)" word_cnt="12" sequence="554">
+C,"roy","roy":C,"ignored","ignored":C,"the","the":C,"spurious","spurious":S,"data","tab":C,"points","points":I,,"and":I,,"drew":C,"in","in":D,"drawing",:C,"the","the":C,"graph","graph"
+</PATH>
+<PATH id="(s131u451n.wav)" word_cnt="11" sequence="555">
+C,"the","the":C,"thick","thick":C,"elm","elm":C,"forest","forest":C,"was","was":C,"nearly","nearly":C,"overwhelmed","overwhelmed":C,"by","by":D,"dutch",:S,"elm","dodgshelm":C,"disease","disease"
+</PATH>
+<PATH id="(s131u452n.wav)" word_cnt="8" sequence="556">
+C,"in","in":C,"developing","developing":C,"film","film":C,"many","many":C,"toxic","toxic":C,"chemicals","chemicals":S,"are","were":C,"used","used"
+</PATH>
+<PATH id="(s130u431n.wav)" word_cnt="7" sequence="604">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s130u443n.wav)" word_cnt="10" sequence="605">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s131u431n.wav)" word_cnt="7" sequence="606">
+C,"the","the":C,"5th","5th":C,"jar","jar":C,"contains","contains":C,"big","big":C,"juicy","juicy":C,"peaches","peaches"
+</PATH>
+<PATH id="(s131u443n.wav)" word_cnt="10" sequence="607">
+C,"a","a":C,"lone","lone":C,"star","star":I,,"is":S,"shone","shown":C,"in","in":C,"the","the":C,"early","early":C,"evening","evening":C,"sky","sky"
+</PATH>
+<PATH id="(s131u447n.wav)" word_cnt="7" sequence="608">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+<PATH id="(s130u447n.wav)" word_cnt="7" sequence="632">
+C,"1st","1st":C,"add","add":C,"milk","milk":C,"to","to":C,"the","the":C,"shredded","shredded":C,"cheese","cheese"
+</PATH>
+</SPEAKER>
+</SYSTEM>

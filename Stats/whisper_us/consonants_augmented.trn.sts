@@ -1,0 +1,20 @@
+                Summary of Statistical Significance Tests:                
+                           Comparing the System                           
+                   whisper_us/consonants_augmented.trn                    
+                    for the  Test with other Systems:                     
+
+                                                      MP                  
+                                      ----------------------------------- 
+      whisper_us/no_augmentation.trn                 same                 
+     whisper_us/vowels_augmented.trn  whisper_us/consonants_augmented.trn 
+         whisper_us/spec_augment.trn      whisper_us/spec_augment.trn     
+
+
+
+                          Test Name                      Abbrev.
+          ------------------------------------------     -------
+          Matched Pair Sentence Segment (Word Error)       MP   
+
+Note: System ID with lower error rate is printed if the Null
+      Hypothesis is rejected at the 95% Confidence Level,
+      if not, 'same' is printed.

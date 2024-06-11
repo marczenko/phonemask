@@ -1,0 +1,20 @@
+               Summary of Statistical Significance Tests:               
+                          Comparing the System                          
+                     normal_sg/no_augmentation.trn                      
+                   for the  Test with other Systems:                    
+
+                                                     MP                 
+                                     ---------------------------------- 
+     normal_sg/vowels_augmented.trn    normal_sg/no_augmentation.trn    
+ normal_sg/consonants_augmented.trn    normal_sg/no_augmentation.trn    
+         normal_sg/spec_augment.trn    normal_sg/no_augmentation.trn    
+
+
+
+                         Test Name                      Abbrev.
+         ------------------------------------------     -------
+         Matched Pair Sentence Segment (Word Error)       MP   
+
+Note: System ID with lower error rate is printed if the Null
+      Hypothesis is rejected at the 95% Confidence Level,
+      if not, 'same' is printed.
